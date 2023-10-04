@@ -10,7 +10,7 @@ Sou um estudante apaixonado por desenvolvimento front-end e estou em busca de op
 
 Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
-### Projeto 1: [Portal de Notícias](https://github.com/lvieira7/exercicio_css)
+### Projeto 1: [Portal de Notícias](https://github.com/lvieira7/exercicio_css/tree/exercicio_css)
 
 #### Tecnologias Usadas:
 
