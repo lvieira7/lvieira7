@@ -4,7 +4,7 @@ Sou um estudante apaixonado por desenvolvimento front-end e estou em busca de op
 
 ## 📚 Educação
 
-- **Cursando Tec. em Análise e Desenvolvimento de Sistemas** - [![UNINOVE](https://img.shields.io/badge/UNINOVE-2023%20--%202025-blue)](https://www.uninove.br/)
+- **Cursando Tec. em Análise e Desenvolvimento de Sistemas** - UNINOVE
 
 ## 💻 Projetos de Estudo
 
