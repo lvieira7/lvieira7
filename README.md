@@ -10,11 +10,11 @@ Sou um estudante apaixonado por desenvolvimento front-end e estou em busca de op
 
 Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
-### Projeto 1: [Portal de Notícias](https://github.com/lvieira7/exercicio_css/tree/exercicio_css)
+### Projeto 1: [Landing Page](https://site-azul-turismo.vercel.app/)
 
 #### Tecnologias Usadas:
 
-- **HTML:** Utilizei HTML para estruturar o conteúdo da página, incluindo cabeçalho, seções de notícias e rodapé.
+- **HTML:** Utilizei HTML para estruturar o conteúdo da página, incluindo cabeçalho, seções e rodapé.
 - **CSS:** Utilizei CSS para estilizar a página e torná-la visualmente atraente. Isso incluiu a definição de cores, fontes, layout e estilos para os elementos da página.
 
 #### Principais Lições Aprendidas:
