@@ -1,6 +1,6 @@
 # Olá! me chamo Lucas Vieira
 
-👋 Bem-vindo ao meu perfil no GitHub! Sou um estudante de programação, atualmente focado em C#. Estou sempre buscando aprender e melhorar minhas habilidades, e aqui você encontrará alguns dos meus projetos.
+👋 Bem-vindo ao meu perfil! Sou um estudante de programação, atualmente focado em C#. Estou sempre buscando aprender e melhorar minhas habilidades, e aqui você encontrará alguns dos meus projetos.
 
 ## 🎓 Sobre Mim
 
@@ -17,4 +17,4 @@ Neste momento, estou trabalhando no **Fusion System**, um sistema de ponto de ve
 - **Relatórios:** Geração de relatórios detalhados para análise de vendas e desempenho.
 
 
-Obrigado por visitar meu perfil! 🚀
+Obrigado! 🚀
